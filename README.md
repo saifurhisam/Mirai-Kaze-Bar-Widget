@@ -11,4 +11,4 @@ It combines functionality and convenience, providing a streamlined desktop exper
 **Power Controls:** Quickly Slide to Shut Down, restart, or lock your PC with just a click.
 
 
-<img width="1919" height="55" alt="Screenshot 2025-11-23 110709" src="https://github.com/user-attachments/assets/39c27a77-f645-4155-b9a6-5e310d3a46b7" />
+<img width="1919" height="59" alt="Screenshot 2025-11-23 110709" src="Screenshot 2025-11-23 112850.png" >
