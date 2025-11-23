@@ -9,3 +9,4 @@ It combines functionality and convenience, providing a streamlined desktop exper
 **System Monitoring:** View real-time statistics for CPU, RAM, and SSD usage.
 
 **Power Controls:** Quickly Slide to Shut Down, restart, or lock your PC with just a click.
+<img width="1919" height="59" alt="Screenshot 2025-11-23 110709" src="https://github.com/user-attachments/assets/39c27a77-f645-4155-b9a6-5e310d3a46b7" />
